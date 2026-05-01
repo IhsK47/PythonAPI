@@ -23,4 +23,14 @@ DELETE  --> delete data from a resource e.g. from a db
 ---- there are others but there are the most common HTTP methods
 --- methods are how we mark different api routes
 
+Nology:
+
+* API - Application Programming Interface *
+- middleman between client and db
+
+PATCH --> Partial update
+PUT --> If entry doesn't exist, create. Else, replace.
+
+CRUD --> cre, re, up, del --> Restful API 
+
 
