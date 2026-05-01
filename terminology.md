@@ -13,8 +13,6 @@ args
 - stores query parameters in a dictionary
 
 
-
-
 GET --> request data from a specifed resource, retrieve a value from the server
 POST --> create a resource
 PUT --> alter/mod/update a resource
@@ -26,11 +24,17 @@ DELETE  --> delete data from a resource e.g. from a db
 Nology:
 
 * API - Application Programming Interface *
-- middleman between client and db
+- middleman between client/browser/app and data-sources/other services (maybe even another API?!)
+- security guy
 
 PATCH --> Partial update
 PUT --> If entry doesn't exist, create. Else, replace.
 
 CRUD --> cre, re, up, del --> Restful API 
+
+12 - app uses method to api
+21 - json/xml back to app
+
+
 
 
