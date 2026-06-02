@@ -1,11 +1,11 @@
 json: javaScript object notation
 - a collection of key value pairs, similar to a python dictionary
 
-jsonify
+>jsonify
 - puts data in json format
 - whenever we returning data from an API, we'll be using json, user_data (example) is a dictionary which we've just jsonified (parsing the data)
 
-query parameter
+>query parameter
 - essentially an extra value that is included after the path which can be added to the user_data
 
 
