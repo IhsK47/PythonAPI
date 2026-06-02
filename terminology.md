@@ -28,6 +28,7 @@ Nology:
 - security guy
 
 PATCH --> Partial update
+
 PUT --> If entry doesn't exist, create. Else, replace.
 
 CRUD --> cre, re, up, del --> Restful API 
